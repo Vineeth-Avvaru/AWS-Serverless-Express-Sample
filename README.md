@@ -14,16 +14,16 @@ Method: POST <br/>
 Response: Mirrors the request body
 
 # Requirements
-## `npm install -g serverless`
+### `npm install -g serverless`
 
 # Configuration
-## `serverless config credentials --provider aws --key access_key --secret secret_key`
+### `serverless config credentials --provider aws --key access_key --secret secret_key`
 
 # Installing Dependencies
-## `npm install`
+### `npm install`
 
 
 # Deployment
-## `serverless deploy`
+### `serverless deploy`
 
 
